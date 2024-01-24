@@ -7,6 +7,7 @@ public class changeclass {
 
 		
 		System.out.println("testing");
+		System.out.println("testing");
 	}
 
 }
